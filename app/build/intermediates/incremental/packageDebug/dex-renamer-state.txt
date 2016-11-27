@@ -1,0 +1,7 @@
+#Sat Nov 26 20:26:37 PST 2016
+base.0=/Users/apoorva/AndroidStudioProjects/Project273/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_09c7c86dd0bbe9a1f1773012cef6caf7fde5b7ba
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/apoorva/AndroidStudioProjects/Project273/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_202acfb09292aeef05a73589552ca23d03f3f3c8/classes.dex
+base.1=/Users/apoorva/AndroidStudioProjects/Project273/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_202acfb09292aeef05a73589552ca23d03f3f3c8
+file.0=/Users/apoorva/AndroidStudioProjects/Project273/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_09c7c86dd0bbe9a1f1773012cef6caf7fde5b7ba/classes.dex
